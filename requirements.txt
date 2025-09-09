@@ -28,6 +28,8 @@ openai
 # Extra Utilities
 python-dotenv
 joblib
+faster-whisper
+soundfile
 
 # interface
 gradio
