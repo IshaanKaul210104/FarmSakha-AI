@@ -5,7 +5,7 @@ import numpy as np
 # Load Whisper model (small is faster, medium/large are more accurate)
 model = whisper.load_model("small")
 
-def record_and_transcribe(duration=5, samplerate=16000):
+def record_and_transcribe(duration=30, samplerate=16000):
     """
     Records audio from microphone for given duration and transcribes it to English.
     """
