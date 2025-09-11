@@ -38,3 +38,6 @@ rasterio
 geopandas 
 shapely 
 osmnx
+openai-whisper
+ffmpeg-python
+sounddevice
